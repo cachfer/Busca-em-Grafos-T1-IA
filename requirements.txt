@@ -1,0 +1,11 @@
+# Requisitos para Planejamento de Movimento em Braço Robótico 2-DOF
+# Instale com: pip install -r requirements.txt
+
+# Computação numérica
+numpy>=1.24.0
+
+# Visualização e plotagem
+matplotlib>=3.7.0
+
+# Nota: Python 3.9+ é necessário
+# Para verificar sua versão: python --version
