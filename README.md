@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Planejamento de Movimento em Braço Robótico 2-DOF
