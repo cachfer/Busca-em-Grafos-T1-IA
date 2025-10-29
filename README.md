@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # Planejamento de Movimento em Braço Robótico 2-DOF
 Implementação de algoritmos de busca em grafos (Dijkstra e A*) para planejamento de trajetória de um manipulador planar de dois elos, com detecção de colisões e diferentes funções de custo.
@@ -20,7 +18,6 @@ Implementação de algoritmos de busca em grafos (Dijkstra e A*) para planejamen
 - [Parâmetros Configuráveis](#-parâmetros-configuráveis)
 - [Resultados Esperados](#-resultados-esperados)
 - [Documentação Completa](#-documentação-completa)
-- [Solução de Problemas](#-solução-de-problemas)
 
 ## Descrição do Projeto
 Este projeto implementa um sistema de planejamento de movimento para um braço robótico planar de 2 graus de liberdade (2-DOF), utilizando técnicas de busca em grafos para encontrar trajetórias ótimas que evitam colisões com obstáculos.
